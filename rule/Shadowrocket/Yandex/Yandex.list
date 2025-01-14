@@ -38,6 +38,8 @@ DOMAIN-SUFFIX,yandex.tj
 DOMAIN-SUFFIX,yandex.tm
 DOMAIN-SUFFIX,yandex.ua
 DOMAIN-SUFFIX,yandex.uz
+DOMAIN-SUFFIX,yandex-bank.net
+DOMAIN-SUFFIX,yandex-net.ru
 DOMAIN-SUFFIX,yastatic.net
 IP-CIDR,100.43.64.0/19,no-resolve
 IP-CIDR,141.8.128.0/18,no-resolve
